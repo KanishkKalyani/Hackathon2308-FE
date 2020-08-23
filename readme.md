@@ -1,1 +1,13 @@
-### Please clone this repository and cut a branch against it 
+# Github Issues Clone
+
+# Hosted Url: https://kanishk-github-issues-clone.herokuapp.com
+
+## Newton School Hackathon
+
+# Features
+
+- Adding New Issue
+- Editing Issue
+- Each Issue has status
+- Filter displayed issues by Open, Closed and All
+- Delete Issue
